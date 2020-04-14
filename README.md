@@ -1,7 +1,8 @@
-#Android SDK Tools in Debian
+Android SDK Tools in Debian
 -----------
 
-##Description of the project: 
+Description of the project: 
+
 The` Android platform` is free software, including the tools used for developing apps for Android. 
 Debian-derivatives are already a preferred platform for Android developers, and stretch already includes the core Android SDK tools, enough to build some apps. 
 The `Debian Android Tools` team is working towards the goal of having the `entire Android toolchain` and SDK in Debian. 
